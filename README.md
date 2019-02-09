@@ -1,4 +1,4 @@
-# chatbot-rnn
+# Chatbot Master
 A toy chatbot powered by deep learning and trained on data from Reddit. Built on TensorFlow v1.4.0 and Python v3.7.1.
 
 Here is a sample chat transcript. Lines that start with ">" are me; the lines without ">" are the chatbot's responses.
